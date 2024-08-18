@@ -1,2 +1,2 @@
-# ShwetaD
-Data science projects
+CORONA PREDICTION BASED ON SYMPTOMS
+
